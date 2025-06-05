@@ -26,7 +26,7 @@ Certifique-se de ter o Flutter SDK instalado e configurado em sua máquina. Para
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
+    git clone https://github.com/elrick044/l10n
     cd l10n
     ```
 2.  **Instale as dependências:**
